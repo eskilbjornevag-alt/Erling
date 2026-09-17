@@ -1,4 +1,5 @@
 # Tittel
+Dette er oppgaven vår
 # Strategi for rekruttering og sammensetning Eskil 
 Når Erling skal rekruttere er det viktig med forskjellige mennesker med forskjellige perspektiver og erfaring. I dette prosjektet er det veldig viktig å ha kompetente fagfolk, men også la mange forskjellige mennesker teste innbyggerportalen for best mulig resultat som tilfredsstiller ulike mennesker. Erling bør derfor tenke på balansen mellom personene, slik at det er nok faglig kompetanse, men også legge til rette for at brukerne blir trygge på innbyggerportalen. 
 
@@ -24,3 +25,4 @@ Deretter er det lurt for Erling å introdusere alle de ulike rollene i teamet og
 På det første møte bør Erling fokusere på pseudo for å bygge bedre relasjoner mellom teamet. Dette gir ikke direkte framgang, men det vil hjelpe i det lange løp når teamet er mer sammensveiset. Så det vil være lurt å ha en sosial aktivitet og spise lunsj i lag. Korte presentasjonsrunder om seg selv vil være veldig lurt å ha med, slik at en vil kjenne personen sine interesser, erfaring og hvordan det ønsker å bidra best mulig til teamet. Ved å ha en lang felles lunsj vil det gi mer tid til å bli kjent med hverandre og føle seg trygge. 
 
 En enkel agenda for det første møte kan derfor være at Erling først ønsker alle velkommen og presenterer prosjektet og målene. Deretter kan alle presentere seg selv og fortelle litt om sin rolle og erfaring. Etter dette kan teamet gå gjennom arbeidsfordelingen og diskutere hvordan dem skal samarbeide. Til slutt kan dem ha en sosial aktivitet eller felles lunsj for å bli bedre kjent. Dette kan gjøre at teamet får en god start og lettere kan samarbeide videre i prosjektet.
+
