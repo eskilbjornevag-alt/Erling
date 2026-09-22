@@ -39,11 +39,8 @@ For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, tren
 - Avgjøre: En eskaleringstrapp – saken løses først i undergruppen, deretter av Erling, og først ved prinsipielle eller budsjettmessige spørsmål løftes den til bystyret, på samme måte som budsjettoverskridelser allerede håndteres. 
 
 Når denne handlingsplanen blir implementert av Erling vil det bli lettere å følge en plan istedet for å improvisere hvert konfliktmøte, samtidig som at han gjør rede for  g
-# Gruppekontrakt
-Her skal vi evaluere vår egen innsats på det 
-## Egenvaluering av gruppekontrakt/samarbeid
-Vi følge gruppekontrakten i stor grad, arbeidsleder passet i stor grad på å holde kommunikasjonen oppe mellom gruppemedlemmene, Vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte alle kan samarbeide og holde kontakten angående ett gruppeprosjekt.
-Ett konkret eksempel på at vi følger gruppekontrakten kan være at vi alltid ga beskjed hvis vi ikke kunne måte opp på gruppemøter, og hvis vi ikke kunne arbeide på skolen så arbeidet vi hjemme. 
+
+
 
 ## 6. Sikring av god kommunikasjon (Samuel)
 
@@ -52,3 +49,11 @@ God kommunikasjon er spesielt viktig i Erlings prosjekt, ettersom teamet består
 Teamet bør etablere en enkel og forutsigbar kommunikasjonsstruktur helt fra starten. Erling bør legge opp til korte, ukentlige teammøter der medlemmene rapporterer om fremdrift, kommende oppgaver, avhengigheter og mulige hindringer. Møtene bør ha en tydelig dagsorden som sendes ut på forhånd, og viktige beslutninger, ansvarsområder og tidsfrister bør dokumenteres i felles møtereferater i etterkant. I tillegg bør teamet benytte et felles digitalt arbeidsområde der alle medlemmer har tilgang til prosjektplan, oppgaveoversikt, møtereferater, relevante dokumenter og beslutningslogg. Dette reduserer risikoen for at viktig informasjon blir liggende i private e-posttråder eller uformelle samtaler. Ulike kommunikasjonskanaler bør også ha tydelige formål: En chat-kanal kan for eksempel brukes til raske, praktiske spørsmål, mens formelle beslutninger og endringer i prosjektomfanget bør registreres i det felles arbeidsområdet. Erling bør også holde regelmessige møter med prosjekteier for å sikre at teamets arbeid er i tråd med politiske forventninger, budsjettrammer og det overordnede prosjektmandatet.
 
 Erling kan sørge for at alle blir hørt, ved å aktivt legge til rette for inkluderende møter i stedet for å la de mest selvsikre eller høytstående deltakerne dominere diskusjonen. Han bør invitere til innspill fra hver faggruppe og spesifikt spørre representantene for innbyggerne om hvordan foreslåtte løsninger kan påvirke brukerne. Det er spesielt viktig å bruke et enkelt og forståelig språk, ettersom teknisk, politisk og administrativ sjargong kan ekskludere personer som ikke har den samme fagkompetansen. Erling kan kontrollere at alle har samme forståelse, ved å oppsummere hovedpunkter, be deltakerne avklare eventuell usikkerhet og bekrefte beslutninger før man går videre. Muligheter for anonym tilbakemelding eller korte, individuelle avstemminger kan også hjelpe deltakerne med å ta opp forhold de ikke føler seg komfortable med å dele i et stort møte. Til slutt er åpen dokumentasjon avgjørende: beslutninger, begrunnelser for disse og endringer i planer bør være tilgjengelige for hele gruppen. Dette gir alle medlemmer lik tilgang til informasjon og gjør det enklere for teamet å samarbeide på en ansvarlig måte gjennom hele prosjektet.
+
+
+# Gruppekontrakt
+Her skal vi evaluere vår egen innsats på det 
+## Egenvaluering av gruppekontrakt/samarbeid
+Vi følge gruppekontrakten i stor grad, arbeidsleder passet i stor grad på å holde kommunikasjonen oppe mellom gruppemedlemmene, Vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte alle kan samarbeide og holde kontakten angående ett gruppeprosjekt.
+Ett konkret eksempel på at vi følger gruppekontrakten kan være at vi alltid ga beskjed hvis vi ikke kunne måte opp på gruppemøter, og hvis vi ikke kunne arbeide på skolen så arbeidet vi hjemme. 
+
