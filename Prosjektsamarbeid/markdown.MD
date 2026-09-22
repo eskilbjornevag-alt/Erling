@@ -41,4 +41,8 @@ For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, tren
 Når denne handlingsplanen blir implementert av Erling vil det bli lettere å følge en plan istedet for å improvisere hvert konfliktmøte, samtidig som at han gjør rede for  g
 ## Egenvaluering av gruppekontrakt/samarbeid
 Vi følge gruppekontrakten i stor grad, arbeidsleder passet i stor grad på å holde kommunikasjonen oppe mellom gruppemedlemmene, Vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte alle kan samarbeide og holde kontakten angående ett gruppeprosjekt.
+<<<<<<< HEAD
 Ett konkret eksempel på at vi følger gruppekontrakten kan være at vi alltid ga beskjed hvis vi ikke kunne måte opp på gruppemøter, og hvis vi ikke kunne arbeide på skolen så arbeidet vi hjemme.
+=======
+Ett konkret eksempel på at vi følger gruppekontrakten kan være at vi alltid ga beskjed hvis vi ikke kunne måte opp på gruppemøter, og hvis vi ikke kunne arbeide på skolen så arbeidet vi hjemme.
+>>>>>>> origin/main
