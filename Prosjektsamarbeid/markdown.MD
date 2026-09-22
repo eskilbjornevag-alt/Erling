@@ -39,6 +39,8 @@ For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, tren
 - Avgjøre: En eskaleringstrapp – saken løses først i undergruppen, deretter av Erling, og først ved prinsipielle eller budsjettmessige spørsmål løftes den til bystyret, på samme måte som budsjettoverskridelser allerede håndteres. 
 
 Når denne handlingsplanen blir implementert av Erling vil det bli lettere å følge en plan istedet for å improvisere hvert konfliktmøte, samtidig som at han gjør rede for  g
+# Gruppekontrakt
+Her skal vi evaluere vår egen innsats på 
 ## Egenvaluering av gruppekontrakt/samarbeid
 Vi følge gruppekontrakten i stor grad, arbeidsleder passet i stor grad på å holde kommunikasjonen oppe mellom gruppemedlemmene, Vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte alle kan samarbeide og holde kontakten angående ett gruppeprosjekt.
-Ett konkret eksempel på at vi følger gruppekontrakten kan være at vi alltid ga beskjed hvis vi ikke kunne måte opp på gruppemøter, og hvis vi ikke kunne arbeide på skolen så arbeidet vi hjemme.
+Ett konkret eksempel på at vi følger gruppekontrakten kan være at vi alltid ga beskjed hvis vi ikke kunne måte opp på gruppemøter, og hvis vi ikke kunne arbeide på skolen så arbeidet vi hjemme. 
