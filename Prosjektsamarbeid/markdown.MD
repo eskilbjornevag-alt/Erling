@@ -42,7 +42,7 @@ Når denne handlingsplanen blir implementert av Erling vil det bli lettere å f�
 
 
 
-## 6. Sikring av god kommunikasjon (Samuel)
+## Sikring av god kommunikasjon
 
 God kommunikasjon er spesielt viktig i Erlings prosjekt, ettersom teamet består av personer med ulik faglig bakgrunn, ulike interesser og ulik grad av innflytelse. Kommunalt ansatte kan ha fokus på praktisk gjennomføring og regelverk, den politiske rådgiveren kan være opptatt av demokratisk legitimitet og bystyrets forventninger, mens UX/UI-designeren, sikkerhetseksperten og representantene for innbyggerne bidrar med fagspesifikke og brukerorienterte perspektiver. Disse forskjellene er verdifulle, men kan også føre til misforståelser dersom deltakerne bruker ulik terminologi eller antar at andre sitter på den samme informasjonen. Siden prosjektet har en begrenset tidsramme på 15 måneder og et fastsatt budsjett, kan misforståelser eller forsinkede beslutninger raskt føre til ineffektivitet, konflikter eller kostbart omarbeid. Kommunikasjon handler derfor om mer enn bare å dele oppdateringer; det er avgjørende for å skape en felles forståelse av prosjektets mål, prioriteringer, ansvarsområder og rammebetingelser. Tydelig og åpen kommunikasjon kan også styrke tilliten i prosjektets tidlige fase, noe som gjør det enklere for medlemmene å ta opp bekymringer før de utvikler seg til større problemer.
 
