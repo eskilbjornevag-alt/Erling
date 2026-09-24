@@ -57,3 +57,12 @@ Her skal vi evaluere vår egen innsats på det
 Vi følge gruppekontrakten i stor grad, arbeidsleder passet i stor grad på å holde kommunikasjonen oppe mellom gruppemedlemmene, Vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte alle kan samarbeide og holde kontakten angående ett gruppeprosjekt.
 Ett konkret eksempel på at vi følger gruppekontrakten kan være at vi alltid ga beskjed hvis vi ikke kunne måte opp på gruppemøter, og hvis vi ikke kunne arbeide på skolen så arbeidet vi hjemme. 
 
+### Egenevaluering av gruppekontrakt/samarbeid
+
+Vi fulgte gruppekontrakten i stor grad gjennom prosjektet. Arbeidslederen passet på å holde kommunikasjonen oppe mellom gruppemedlemmene, og vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte. Dette gjorde det enklere å holde kontakten og samarbeide selv om vi ikke alltid var på samme sted. Vi kunne også bruke disse kanalene til å gi beskjed om oppgaver, møter og ting som måtte gjøres.
+
+Et konkret eksempel på at vi fulgte gruppekontrakten, var at vi alltid ga beskjed hvis vi ikke kunne møte opp på gruppemøter. Hvis vi ikke kunne arbeide på skolen, prøvde vi å arbeide hjemme i stedet. På denne måten prøvde vi å fortsatt bidra selv om vi ikke kunne være fysisk sammen. Dette gjorde at arbeidet kunne fortsette uten at resten av gruppen måtte vente på personen.
+
+En utfordring som vi møtte på var håndtering av tid. Vi undervurderte ofte hvor mye tid oppgavene ville ta, og dette førte noen ganger til at vi jobbet nærme deadline. I gruppekontrakten hadde vi ikke skrevet så mye om hvordan vi skulle planlegge tiden eller hva vi skulle gjøre hvis vi lå bak planen. Dette gjorde at vi noen ganger måtte jobbe mer på kort tid enn det som egentlig var nødvendig. Vi kunne også vært flinkere til å sette egne frister før den faktiske innleveringsfristen.
+
+Basert på vår erfaring mener vi at vi må fokusere mer på struktur og respektere tiden enda mer i fremtidige prosjekter. Vi bør lage tydeligere frister underveis, slik at vi ligger mer frampå med oppgavene og ikke gjør mesteparten rett før innleveringen. Vi bør også ha klare regler for sykdom og fravær, og hva vi gjør hvis noen ikke rekker en avtalt frist. Dette kan gjøre gruppekontrakten mer nyttig og gjøre samarbeidet bedre i fremtidige prosjekter.
