@@ -1,5 +1,5 @@
 # Gruppeinnlevering 2 - IS-118
-Dette er vår "oppstartspakke" med anbefalinger og verktøy for Erling sitt prosjekt. Skrevet under her står der flere forskjellige situasjonsprosedyrer som vi har notert ned som en grei bruksanvisning å ha 
+Dette er vår "oppstartspakke" med anbefalinger og verktøy for Erling sitt prosjekt. Skrevet under her står der flere forskjellige situasjonsprosedyrer som vi har notert ned
 ## Strategi for rekruttering og sammensetning
 Når Erling skal rekruttere er det viktig med forskjellige mennesker med forskjellige perspektiver og erfaring. I dette prosjektet er det veldig viktig å ha kompetente fagfolk, men også la mange forskjellige mennesker teste innbyggerportalen for best mulig resultat som tilfredsstiller ulike mennesker. Erling bør derfor tenke på balansen mellom personene, slik at det er nok faglig kompetanse, men også legge til rette for at brukerne blir trygge på innbyggerportalen.
 
@@ -32,7 +32,7 @@ For å kunne oppdage uenigheter tidlig bør Erling ikke anta at stillhet betyr e
 
 For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, trenger prosjektet konkrete rutiner å falle tilbake på, altså i stedet for at konflikter blir improvisert fra sak til sak, anbefalingen vår er da en enkel tre stegstrinn modell, som du følger: 
 
-- Identifiser: Faste, korte statusrunder på møtene og samtlige retrospektiver. 
+- **Identifiser**: Faste, korte statusrunder på møtene og samtlige retrospektiver. 
 
 - Drøfte: Et fast agendapunkt for konfliktsaker på hvert møte, med avklaringsmøter mellom de fagmiljøene en konkret sak gjelder. 
 
@@ -53,7 +53,11 @@ Erling kan sørge for at alle blir hørt, ved å aktivt legge til rette for inkl
 
 # Gruppekontrakt
 Her skal vi evaluere vår egen innsats på det 
+<<<<<<< HEAD
 ## Egenevaluering av gruppekontrakt/samarbeid
+=======
+### Egenevaluering av gruppekontrakt/samarbeid
+>>>>>>> 4017d26a45f5f6bdc6e0fb8d708147a0302bdb7d
 
 Vi fulgte gruppekontrakten i stor grad gjennom prosjektet. Arbeidslederen passet på å holde kommunikasjonen oppe mellom gruppemedlemmene, og vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte. Dette gjorde det enklere å holde kontakten og samarbeide selv om vi ikke alltid var på samme sted. Vi kunne også bruke disse kanalene til å gi beskjed om oppgaver, møter og ting som måtte gjøres.
 
