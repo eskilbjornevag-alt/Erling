@@ -1,6 +1,6 @@
 # Gruppeinnlevering 2 - IS-118
 Dette er vår "oppstartspakke" med anbefalinger og verktøy for Erling sitt prosjekt. Skrevet under her står der flere forskjellige situasjonsprosedyrer som vi har notert ned
-## Strategi for rekruttering og sammensetning Eskil 
+## Strategi for rekruttering og sammensetning
 Når Erling skal rekruttere er det viktig med forskjellige mennesker med forskjellige perspektiver og erfaring. I dette prosjektet er det veldig viktig å ha kompetente fagfolk, men også la mange forskjellige mennesker teste innbyggerportalen for best mulig resultat som tilfredsstiller ulike mennesker. Erling bør derfor tenke på balansen mellom personene, slik at det er nok faglig kompetanse, men også legge til rette for at brukerne blir trygge på innbyggerportalen.
 
 Roller som er viktig å ha med er systemutviklere og IT-arbeidere med teknisk bakgrunn for å bygge innbyggerportalen, UX/UI-designere er viktig for å sørge for at innbyggerportalen blir brukervennlig. Sikkerhetsekspert er viktig for å ivareta personvern. I tillegg trenger han folk med kompetanse innen politikk, kultur og arrangementplanlegging, for å bidra med kunnskap og behovene til kommunen. Til slutt trenger man ulike innbyggerrepresentanter i flere aldere for å gjøre innbyggerportalen brukervennlig for flest mulig innbyggere. På denne måten vil det være mange forskjellige perspektiver og ideer fra ulike mennesker.
@@ -14,7 +14,8 @@ Dette er spesielt viktig i forming-fasen fordi gruppemedlemmene fortsatt holder 
 Erling bør derfor fokusere først på å ha den faglige kompetansen han trenger i teamet for å fullføre prosjektet. Deretter bør han tenke på hvordan disse menneskene vil fungere som et team, hvordan gruppen skal bli kjent og hvordan dem kan samarbeide best mulig. En god blanding av forskjellige mennesker og kompetanser kan gjøre at teamet blir bedre rustet til å løse problemer og lage en innbyggerportal som fungerer for flest mulig.
 
 
-Design av "det første møtet" Eskil
+### Design av "det første møtet" Eskil
+
 Det er viktig å fokusere på å ha et godt første møte, siden han skal samle ein gruppe som består av mange ulike personer med ulik erfaring og kompetanse. Erling bør ha som mål å få alle til å ha en felles forståelse av prosjektet, fordi det er viktig at alle forstår kva rolle en har og hvordan teamet skal samarbeide siden prosjektet skal være oppnådd innen 15 måneder. Det er også viktig at alle føler seg trygge på hverandre og får muligheten til å bli kjent med resten av teamet.
 
 Det vil derfor være smart for Erling å starte møte med å presentere prosjektets mål og forventinger. For å oppnå dette bør han forklare hvorfor innbyggerportalen er viktig for kommunen og hva den bør inneholde. Det er også viktig å fortelle om hva som skal være oppnådd innen 15 måneder har gått. Etter presentasjonen bør Erling la teamet diskutere og komme med spørsmål og innspill til han, for å få en bedre forståelse av prosjektet. Dette gjør også at alle får muligheten til å si sin mening og at det blir mindre sjanse for misforståelser senere i prosjektet.
@@ -41,7 +42,7 @@ Når denne handlingsplanen blir implementert av Erling vil det bli lettere å f�
 
 
 
-## 6. Sikring av god kommunikasjon (Samuel)
+## Sikring av god kommunikasjon 
 
 God kommunikasjon er spesielt viktig i Erlings prosjekt, ettersom teamet består av personer med ulik faglig bakgrunn, ulike interesser og ulik grad av innflytelse. Kommunalt ansatte kan ha fokus på praktisk gjennomføring og regelverk, den politiske rådgiveren kan være opptatt av demokratisk legitimitet og bystyrets forventninger, mens UX/UI-designeren, sikkerhetseksperten og representantene for innbyggerne bidrar med fagspesifikke og brukerorienterte perspektiver. Disse forskjellene er verdifulle, men kan også føre til misforståelser dersom deltakerne bruker ulik terminologi eller antar at andre sitter på den samme informasjonen. Siden prosjektet har en begrenset tidsramme på 15 måneder og et fastsatt budsjett, kan misforståelser eller forsinkede beslutninger raskt føre til ineffektivitet, konflikter eller kostbart omarbeid. Kommunikasjon handler derfor om mer enn bare å dele oppdateringer; det er avgjørende for å skape en felles forståelse av prosjektets mål, prioriteringer, ansvarsområder og rammebetingelser. Tydelig og åpen kommunikasjon kan også styrke tilliten i prosjektets tidlige fase, noe som gjør det enklere for medlemmene å ta opp bekymringer før de utvikler seg til større problemer.
 
@@ -52,10 +53,6 @@ Erling kan sørge for at alle blir hørt, ved å aktivt legge til rette for inkl
 
 # Gruppekontrakt
 Her skal vi evaluere vår egen innsats på det 
-## Egenvaluering av gruppekontrakt/samarbeid
-Vi følge gruppekontrakten i stor grad, arbeidsleder passet i stor grad på å holde kommunikasjonen oppe mellom gruppemedlemmene, Vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte alle kan samarbeide og holde kontakten angående ett gruppeprosjekt.
-Ett konkret eksempel på at vi følger gruppekontrakten kan være at vi alltid ga beskjed hvis vi ikke kunne måte opp på gruppemøter, og hvis vi ikke kunne arbeide på skolen så arbeidet vi hjemme. 
-
 ### Egenevaluering av gruppekontrakt/samarbeid
 
 Vi fulgte gruppekontrakten i stor grad gjennom prosjektet. Arbeidslederen passet på å holde kommunikasjonen oppe mellom gruppemedlemmene, og vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte. Dette gjorde det enklere å holde kontakten og samarbeide selv om vi ikke alltid var på samme sted. Vi kunne også bruke disse kanalene til å gi beskjed om oppgaver, møter og ting som måtte gjøres.
