@@ -47,9 +47,7 @@ Teamet bør etablere en enkel og forutsigbar kommunikasjonsstruktur helt fra sta
 Erling kan sørge for at alle blir hørt, ved å aktivt legge til rette for inkluderende møter i stedet for å la de mest selvsikre eller høytstående deltakerne dominere diskusjonen. Han bør invitere til innspill fra hver faggruppe og spesifikt spørre representantene for innbyggerne om hvordan foreslåtte løsninger kan påvirke brukerne. Det er spesielt viktig å bruke et enkelt og forståelig språk, ettersom teknisk, politisk og administrativ sjargong kan ekskludere personer som ikke har den samme fagkompetansen. Erling kan kontrollere at alle har samme forståelse, ved å oppsummere hovedpunkter, be deltakerne avklare eventuell usikkerhet og bekrefte beslutninger før man går videre. Muligheter for anonym tilbakemelding eller korte, individuelle avstemminger kan også hjelpe deltakerne med å ta opp forhold de ikke føler seg komfortable med å dele i et stort møte. Til slutt er åpen dokumentasjon avgjørende: beslutninger, begrunnelser for disse og endringer i planer bør være tilgjengelige for hele gruppen. Dette gir alle medlemmer lik tilgang til informasjon og gjør det enklere for teamet å samarbeide på en ansvarlig måte gjennom hele prosjektet.
 
 
-# Gruppekontrakt
-Her skal vi evaluere vår egen innsats på det
-## Egenvaluering av gruppekontrakt/samarbeid
+# Egenvaluering av gruppekontrakt/samarbeid
 Vi fulgte gruppekontrakten i stor grad gjennom prosjektet. Arbeidslederen passet på å holde kommunikasjonen oppe mellom gruppemedlemmene, og vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte. Dette gjorde det enklere å holde kontakten og samarbeide selv om vi ikke alltid var på samme sted. Vi kunne også bruke disse kanalene til å gi beskjed om oppgaver, møter og ting som måtte gjøres.
 
 Et konkret eksempel på at vi fulgte gruppekontrakten, var at vi alltid ga beskjed hvis vi ikke kunne møte opp på gruppemøter. Hvis vi ikke kunne arbeide på skolen, prøvde vi å arbeide hjemme i stedet. På denne måten prøvde vi å fortsatt bidra selv om vi ikke kunne være fysisk sammen. Dette gjorde at arbeidet kunne fortsette uten at resten av gruppen måtte vente på personen.
