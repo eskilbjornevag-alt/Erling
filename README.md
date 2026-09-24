@@ -4,4 +4,5 @@ Medlemmer:
 - Benjamin V. Bysheim
 - Eskil Bjornevag
 - Yagmur Can Sahin
-- Samuel Bahati Ngati
+- Samuel Bahati Ngenda
+- Kristian Haugseng
