@@ -1,5 +1,5 @@
 # Gruppeinnlevering 2 - IS-118
-
+Dette er vår "oppstartspakke" med anbefalinger og verktøy for Erling sitt prosjekt. Skrevet under her står der flere forskjellige situasjonsprosedyrer som vi har notert ned
 ## Strategi for rekruttering og sammensetning Eskil 
 Når Erling skal rekruttere er det viktig med forskjellige mennesker med forskjellige perspektiver og erfaring. I dette prosjektet er det veldig viktig å ha kompetente fagfolk, men også la mange forskjellige mennesker teste innbyggerportalen for best mulig resultat som tilfredsstiller ulike mennesker. Erling bør derfor tenke på balansen mellom personene, slik at det er nok faglig kompetanse, men også legge til rette for at brukerne blir trygge på innbyggerportalen.
 
