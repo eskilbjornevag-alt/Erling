@@ -14,7 +14,7 @@ Dette er spesielt viktig i forming-fasen fordi gruppemedlemmene fortsatt holder 
 Erling bør derfor fokusere først på å ha den faglige kompetansen han trenger i teamet for å fullføre prosjektet. Deretter bør han tenke på hvordan disse menneskene vil fungere som et team, hvordan gruppen skal bli kjent og hvordan dem kan samarbeide best mulig. En god blanding av forskjellige mennesker og kompetanser kan gjøre at teamet blir bedre rustet til å løse problemer og lage en innbyggerportal som fungerer for flest mulig.
 
 
-## Design av "det første møtet" 
+## Design av "Det Første Møtet" 
 Det er viktig å fokusere på å ha et godt første møte, siden han skal samle ein gruppe som består av mange ulike personer med ulik erfaring og kompetanse. Erling bør ha som mål å få alle til å ha en felles forståelse av prosjektet, fordi det er viktig at alle forstår kva rolle en har og hvordan teamet skal samarbeide siden prosjektet skal være oppnådd innen 15 måneder. Det er også viktig at alle føler seg trygge på hverandre og får muligheten til å bli kjent med resten av teamet.
 
 Det vil derfor være smart for Erling å starte møte med å presentere prosjektets mål og forventinger. For å oppnå dette bør han forklare hvorfor innbyggerportalen er viktig for kommunen og hva den bør inneholde. Det er også viktig å fortelle om hva som skal være oppnådd innen 15 måneder har gått. Etter presentasjonen bør Erling la teamet diskutere og komme med spørsmål og innspill til han, for å få en bedre forståelse av prosjektet. Dette gjør også at alle får muligheten til å si sin mening og at det blir mindre sjanse for misforståelser senere i prosjektet.
@@ -38,7 +38,7 @@ For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, tren
 
 Når denne handlingsplanen blir implementert av Erling vil det bli lettere å følge en plan istedet for å improvisere hvert konfliktmøte, samtidig som at han gjør rede for
 
-## 6. Sikring av god kommunikasjon
+## 6. Sikring av God kommunikasjon
 
 God kommunikasjon er spesielt viktig i Erlings prosjekt, ettersom teamet består av personer med ulik faglig bakgrunn, ulike interesser og ulik grad av innflytelse. Kommunalt ansatte kan ha fokus på praktisk gjennomføring og regelverk, den politiske rådgiveren kan være opptatt av demokratisk legitimitet og bystyrets forventninger, mens UX/UI-designeren, sikkerhetseksperten og representantene for innbyggerne bidrar med fagspesifikke og brukerorienterte perspektiver. Disse forskjellene er verdifulle, men kan også føre til misforståelser dersom deltakerne bruker ulik terminologi eller antar at andre sitter på den samme informasjonen. Siden prosjektet har en begrenset tidsramme på 15 måneder og et fastsatt budsjett, kan misforståelser eller forsinkede beslutninger raskt føre til ineffektivitet, konflikter eller kostbart omarbeid. Kommunikasjon handler derfor om mer enn bare å dele oppdateringer; det er avgjørende for å skape en felles forståelse av prosjektets mål, prioriteringer, ansvarsområder og rammebetingelser. Tydelig og åpen kommunikasjon kan også styrke tilliten i prosjektets tidlige fase, noe som gjør det enklere for medlemmene å ta opp bekymringer før de utvikler seg til større problemer.
 
