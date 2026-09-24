@@ -14,7 +14,7 @@ Dette er spesielt viktig i forming-fasen fordi gruppemedlemmene fortsatt holder 
 Erling bør derfor fokusere først på å ha den faglige kompetansen han trenger i teamet for å fullføre prosjektet. Deretter bør han tenke på hvordan disse menneskene vil fungere som et team, hvordan gruppen skal bli kjent og hvordan dem kan samarbeide best mulig. En god blanding av forskjellige mennesker og kompetanser kan gjøre at teamet blir bedre rustet til å løse problemer og lage en innbyggerportal som fungerer for flest mulig.
 
 
-### Design av "det første møtet" Eskil
+### Design av "det første møtet" 
 
 Det er viktig å fokusere på å ha et godt første møte, siden han skal samle ein gruppe som består av mange ulike personer med ulik erfaring og kompetanse. Erling bør ha som mål å få alle til å ha en felles forståelse av prosjektet, fordi det er viktig at alle forstår kva rolle en har og hvordan teamet skal samarbeide siden prosjektet skal være oppnådd innen 15 måneder. Det er også viktig at alle føler seg trygge på hverandre og får muligheten til å bli kjent med resten av teamet.
 
