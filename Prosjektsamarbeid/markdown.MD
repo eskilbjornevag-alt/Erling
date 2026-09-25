@@ -1,7 +1,6 @@
 # **Gruppeinnlevering 2 - IS-118**
 Dette er vår "oppstartspakke" med anbefalinger og verktøy for Erling sitt prosjekt. Skrevet under her står der flere forskjellige situasjonsprosedyrer som vi har notert ned enkle bruksanvisninger til eventuelle konflikter som kan oppstå i Erling sitt prosjektarbeid.
 ## **Strategi for rekruttering og sammensetning**
-## Strategi for rekruttering og sammensetning
 Når Erling skal rekruttere er det viktig med forskjellige mennesker med forskjellige perspektiver og erfaring. I dette prosjektet er det veldig viktig å ha kompetente fagfolk, men også la mange forskjellige mennesker teste innbyggerportalen for best mulig resultat som tilfredsstiller ulike mennesker. Erling bør derfor tenke på balansen mellom personene, slik at det er nok faglig kompetanse, men også legge til rette for at brukerne blir trygge på innbyggerportalen.
 
 Roller som er viktig å ha med er systemutviklere og IT-arbeidere med teknisk bakgrunn for å bygge innbyggerportalen, UX/UI-designere er viktig for å sørge for at innbyggerportalen blir brukervennlig. Sikkerhetsekspert er viktig for å ivareta personvern. I tillegg trenger han folk med kompetanse innen politikk, kultur og arrangementplanlegging, for å bidra med kunnskap og behovene til kommunen. Til slutt trenger man ulike innbyggerrepresentanter i flere aldere for å gjøre innbyggerportalen brukervennlig for flest mulig innbyggere. På denne måten vil det være mange forskjellige perspektiver og ideer fra ulike mennesker.
