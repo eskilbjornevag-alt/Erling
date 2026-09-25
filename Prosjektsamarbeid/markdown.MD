@@ -14,7 +14,7 @@ Dette er spesielt viktig i forming-fasen fordi gruppemedlemmene fortsatt holder 
 Erling bør derfor fokusere først på å ha den faglige kompetansen han trenger i teamet for å fullføre prosjektet. Deretter bør han tenke på hvordan disse menneskene vil fungere som et team, hvordan gruppen skal bli kjent og hvordan dem kan samarbeide best mulig. En god blanding av forskjellige mennesker og kompetanser kan gjøre at teamet blir bedre rustet til å løse problemer og lage en innbyggerportal som fungerer for flest mulig.
 
 
-### Design av "det første møtet" 
+## Design av "det første møtet" 
 
 Det er viktig å fokusere på å ha et godt første møte, siden han skal samle ein gruppe som består av mange ulike personer med ulik erfaring og kompetanse. Erling bør ha som mål å få alle til å ha en felles forståelse av prosjektet, fordi det er viktig at alle forstår kva rolle en har og hvordan teamet skal samarbeide siden prosjektet skal være oppnådd innen 15 måneder. Det er også viktig at alle føler seg trygge på hverandre og får muligheten til å bli kjent med resten av teamet.
 
@@ -25,6 +25,15 @@ Deretter er det lurt for Erling å introdusere alle de ulike rollene i teamet og
 På det første møte bør Erling fokusere på pseudo for å bygge bedre relasjoner mellom teamet. Dette gir ikke direkte framgang, men det vil hjelpe i det lange løp når teamet er mer sammensveiset. Så det vil være lurt å ha en sosial aktivitet og spise lunsj i lag. Korte presentasjonsrunder om seg selv vil være veldig lurt å ha med, slik at en vil kjenne personen sine interesser, erfaring og hvordan det ønsker å bidra best mulig til teamet. Ved å ha en lang felles lunsj vil det gi mer tid til å bli kjent med hverandre og føle seg trygge. 
 
 En enkel agenda for det første møte kan derfor være at Erling først ønsker alle velkommen og presenterer prosjektet og målene. Deretter kan alle presentere seg selv og fortelle litt om sin rolle og erfaring. Etter dette kan teamet gå gjennom arbeidsfordelingen og diskutere hvordan dem skal samarbeide. Til slutt kan dem ha en sosial aktivitet eller felles lunsj for å bli bedre kjent. Dette kan gjøre at teamet får en god start og lettere kan samarbeide videre i prosjektet.
+## Rammer for relasjonelle kontrakter
+I Erling sitt prosjekt vil relasjonelle kontrakter være sentrale fordi prosjektet er komplekst, tverrfaglig og preget av usikkerhet. En relasjonell kontrakt innebærer at samarbeidet ikke bare reguleres gjennom formelle avtaler, men også gjennom gjensidige forventninger, tillit, lojalitet, samarbeid og fleksibilitet.
+
+Prosjektgruppen består av aktører med ulik kompetanse og ulike interesser. IT-avdelingen kan eksempelvis være opptatt av tekniske løsninger og sikkerhet, mens innbyggerrepresentantene først og fremst kan være opptatt av brukervennlighet og relevans. Den politiske rådgiveren skal samtidig ivareta kontakten med bystyret. For at prosjektet skal lykkes, må Erling etablere en samarbeidskultur der aktørene deler informasjon, lytter til hverandre og arbeider mot prosjektets felles mål.
+
+Fleksibilitet er også viktig. Selv om prosjektet har en tidsramme på 15 måneder og et budsjett på 8 millioner kroner, er det vanskelig å forutse alle utfordringer som vil oppstå i utviklingen av en ny digital portal. Teknologiske problemer, endrede brukerbehov eller nye krav kan gjøre det nødvendig å justere prosjektet. Relasjonelle kontrakter gjør det mulig å håndtere slike situasjoner gjennom dialog og gjensidig tilpasning, fremfor at partene kun forholder seg til det som opprinnelig var avtalt.
+
+Tillit og kommunikasjon blir derfor sentrale rammer. Erling må skape tydelige forventninger til roller og ansvar, samtidig som prosjektmedlemmene får mulighet til å bruke sin faglige kompetanse. Det bør også etableres mekanismer for å håndtere uenighet og prioriteringskonflikter. På denne måten kan relasjonelle kontrakter bidra til å skape et stabilt og fleksibelt samarbeid som støtter prosjektets mål om økt innbyggerengasjement og transparens.
+
 ## Proaktive mekanismer for konflikthåndtering
 Erlings prosjektgruppe består av medlemmer fra fire ulike bransjer/miljøer - kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter, med ulike prioriteringer og lojaliteter. Kombinert med et relativt stramt tidsskjema på 15 måneder, budsjett på 8 millioner NOK og et klart mål om å øke innbyggerengasjementet med 20% det første året etter lansering. Det er ikke uvanlig at konflikter oppstår i slike prosjekter, men løsningen ligger i noe med at Erling etablerer proaktive rutiner allerede fra oppstarten slik at uenigheter fanges opp og løses tidlig i stedet for å eskalere under tidspresset som kommer til å prege prosjektet dersom det ikke er etablerte rutiner for å forebygge konflikter i prosjektarbeid. 
 
@@ -32,7 +41,7 @@ For å kunne oppdage uenigheter tidlig bør Erling ikke anta at stillhet betyr e
 
 For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, trenger prosjektet konkrete rutiner å falle tilbake på, altså i stedet for at konflikter blir improvisert fra sak til sak, anbefalingen vår er da en enkel tre stegstrinn modell, som du følger: 
 
-- Identifiser: Faste, korte statusrunder på møtene og samtlige retrospektiver. 
+- **Identifiser**: Faste, korte statusrunder på møtene og samtlige retrospektiver. 
 
 - Drøfte: Et fast agendapunkt for konfliktsaker på hvert møte, med avklaringsmøter mellom de fagmiljøene en konkret sak gjelder. 
 
