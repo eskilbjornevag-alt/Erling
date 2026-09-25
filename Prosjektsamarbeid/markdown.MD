@@ -43,11 +43,11 @@ For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, tren
 
 - **Identifiser**: Faste, korte statusrunder på møtene og samtlige retrospektiver. 
 
-- Drøfte: Et fast agendapunkt for konfliktsaker på hvert møte, med avklaringsmøter mellom de fagmiljøene en konkret sak gjelder. 
+- **Drøfte**: Et fast agendapunkt for konfliktsaker på hvert møte, med avklaringsmøter mellom de fagmiljøene en konkret sak gjelder. 
 
-- Avgjøre: En eskaleringstrapp – saken løses først i undergruppen, deretter av Erling, og først ved prinsipielle eller budsjettmessige spørsmål løftes den til bystyret, på samme måte som budsjettoverskridelser allerede håndteres. 
+- **Avgjøre**: En eskaleringstrapp – saken løses først i undergruppen, deretter av Erling, og først ved prinsipielle eller budsjettmessige spørsmål løftes den til bystyret, på samme måte som budsjettoverskridelser allerede håndteres. 
 
-Når denne handlingsplanen blir implementert av Erling vil det bli lettere å følge en plan istedet for å improvisere hvert konfliktmøte, samtidig som at han gjør rede for  g
+Når denne handlingsplanen blir implementert av Erling vil det bli lettere å følge en plan istedet for å improvisere hvert konfliktmøte, så det blir en enklere arbeidsflyt for gruppen til Erling.
 
 
 
@@ -61,8 +61,8 @@ Erling kan sørge for at alle blir hørt, ved å aktivt legge til rette for inkl
 
 
 # Gruppekontrakt
-Her skal vi evaluere vår egen innsats på det 
-### Egenevaluering av gruppekontrakt/samarbeid
+Her skal vi evaluere vår egen innsats på gruppearbeidet vårt og gruppekontrakten.
+## Egenevaluering av gruppekontrakt/samarbeid
 
 Vi fulgte gruppekontrakten i stor grad gjennom prosjektet. Arbeidslederen passet på å holde kommunikasjonen oppe mellom gruppemedlemmene, og vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte. Dette gjorde det enklere å holde kontakten og samarbeide selv om vi ikke alltid var på samme sted. Vi kunne også bruke disse kanalene til å gi beskjed om oppgaver, møter og ting som måtte gjøres.
 
