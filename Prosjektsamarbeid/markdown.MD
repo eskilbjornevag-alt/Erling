@@ -1,5 +1,5 @@
 # **Gruppeinnlevering 2 - IS-118**
-Dette er vår "oppstartspakke" med anbefalinger og verktøy for Erling sitt prosjekt. Skrevet under her står der flere forskjellige situasjonsprosedyrer som vi har notert ned enkle bruksanvisninger til eventuelle 
+Dette er vår "oppstartspakke" med anbefalinger og verktøy for Erling sitt prosjekt. Skrevet under her står der flere forskjellige situasjonsprosedyrer som vi har notert ned enkle bruksanvisninger til eventuelle konflikter som kan oppstå i Erling sitt prosjektarbeid.
 ## **Strategi for rekruttering og sammensetning**
 Når Erling skal rekruttere er det viktig med forskjellige mennesker med forskjellige perspektiver og erfaring. I dette prosjektet er det veldig viktig å ha kompetente fagfolk, men også la mange forskjellige mennesker teste innbyggerportalen for best mulig resultat som tilfredsstiller ulike mennesker. Erling bør derfor tenke på balansen mellom personene, slik at det er nok faglig kompetanse, men også legge til rette for at brukerne blir trygge på innbyggerportalen.
 
@@ -42,7 +42,7 @@ Når denne handlingsplanen blir implementert av Erling vil det bli lettere å f�
 
 
 
-## Sikring av god kommunikasjon 
+## Sikring av god kommunikasjon
 
 God kommunikasjon er spesielt viktig i Erlings prosjekt, ettersom teamet består av personer med ulik faglig bakgrunn, ulike interesser og ulik grad av innflytelse. Kommunalt ansatte kan ha fokus på praktisk gjennomføring og regelverk, den politiske rådgiveren kan være opptatt av demokratisk legitimitet og bystyrets forventninger, mens UX/UI-designeren, sikkerhetseksperten og representantene for innbyggerne bidrar med fagspesifikke og brukerorienterte perspektiver. Disse forskjellene er verdifulle, men kan også føre til misforståelser dersom deltakerne bruker ulik terminologi eller antar at andre sitter på den samme informasjonen. Siden prosjektet har en begrenset tidsramme på 15 måneder og et fastsatt budsjett, kan misforståelser eller forsinkede beslutninger raskt føre til ineffektivitet, konflikter eller kostbart omarbeid. Kommunikasjon handler derfor om mer enn bare å dele oppdateringer; det er avgjørende for å skape en felles forståelse av prosjektets mål, prioriteringer, ansvarsområder og rammebetingelser. Tydelig og åpen kommunikasjon kan også styrke tilliten i prosjektets tidlige fase, noe som gjør det enklere for medlemmene å ta opp bekymringer før de utvikler seg til større problemer.
 
