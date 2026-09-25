@@ -1,6 +1,7 @@
 # **Gruppeinnlevering 2 - IS-118**
 Dette er vår "oppstartspakke" med anbefalinger og verktøy for Erling sitt prosjekt. Skrevet under her står der flere forskjellige situasjonsprosedyrer som vi har notert ned enkle bruksanvisninger til eventuelle konflikter som kan oppstå i Erling sitt prosjektarbeid.
 ## **Strategi for rekruttering og sammensetning**
+## Strategi for rekruttering og sammensetning
 Når Erling skal rekruttere er det viktig med forskjellige mennesker med forskjellige perspektiver og erfaring. I dette prosjektet er det veldig viktig å ha kompetente fagfolk, men også la mange forskjellige mennesker teste innbyggerportalen for best mulig resultat som tilfredsstiller ulike mennesker. Erling bør derfor tenke på balansen mellom personene, slik at det er nok faglig kompetanse, men også legge til rette for at brukerne blir trygge på innbyggerportalen.
 
 Roller som er viktig å ha med er systemutviklere og IT-arbeidere med teknisk bakgrunn for å bygge innbyggerportalen, UX/UI-designere er viktig for å sørge for at innbyggerportalen blir brukervennlig. Sikkerhetsekspert er viktig for å ivareta personvern. I tillegg trenger han folk med kompetanse innen politikk, kultur og arrangementplanlegging, for å bidra med kunnskap og behovene til kommunen. Til slutt trenger man ulike innbyggerrepresentanter i flere aldere for å gjøre innbyggerportalen brukervennlig for flest mulig innbyggere. På denne måten vil det være mange forskjellige perspektiver og ideer fra ulike mennesker.
@@ -25,7 +26,17 @@ Deretter er det lurt for Erling å introdusere alle de ulike rollene i teamet og
 På det første møte bør Erling fokusere på pseudo for å bygge bedre relasjoner mellom teamet. Dette gir ikke direkte framgang, men det vil hjelpe i det lange løp når teamet er mer sammensveiset. Så det vil være lurt å ha en sosial aktivitet og spise lunsj i lag. Korte presentasjonsrunder om seg selv vil være veldig lurt å ha med, slik at en vil kjenne personen sine interesser, erfaring og hvordan det ønsker å bidra best mulig til teamet. Ved å ha en lang felles lunsj vil det gi mer tid til å bli kjent med hverandre og føle seg trygge. 
 
 En enkel agenda for det første møte kan derfor være at Erling først ønsker alle velkommen og presenterer prosjektet og målene. Deretter kan alle presentere seg selv og fortelle litt om sin rolle og erfaring. Etter dette kan teamet gå gjennom arbeidsfordelingen og diskutere hvordan dem skal samarbeide. Til slutt kan dem ha en sosial aktivitet eller felles lunsj for å bli bedre kjent. Dette kan gjøre at teamet får en god start og lettere kan samarbeide videre i prosjektet.
-## **Proaktive mekanismer for konflikthåndtering**
+
+## Rammer for Relasjonelle kontrakter
+I Erling sitt prosjekt vil relasjonelle kontrakter være sentrale fordi prosjektet er komplekst, tverrfaglig og preget av usikkerhet. En relasjonell kontrakt innebærer at samarbeidet ikke bare reguleres gjennom formelle avtaler, men også gjennom gjensidige forventninger, tillit, lojalitet, samarbeid og fleksibilitet.
+
+Prosjektgruppen består av aktører med ulik kompetanse og ulike interesser. IT-avdelingen kan eksempelvis være opptatt av tekniske løsninger og sikkerhet, mens innbyggerrepresentantene først og fremst kan være opptatt av brukervennlighet og relevans. Den politiske rådgiveren skal samtidig ivareta kontakten med bystyret. For at prosjektet skal lykkes, må Erling etablere en samarbeidskultur der aktørene deler informasjon, lytter til hverandre og arbeider mot prosjektets felles mål.
+
+Fleksibilitet er også viktig. Selv om prosjektet har en tidsramme på 15 måneder og et budsjett på 8 millioner kroner, er det vanskelig å forutse alle utfordringer som vil oppstå i utviklingen av en ny digital portal. Teknologiske problemer, endrede brukerbehov eller nye krav kan gjøre det nødvendig å justere prosjektet. Relasjonelle kontrakter gjør det mulig å håndtere slike situasjoner gjennom dialog og gjensidig tilpasning, fremfor at partene kun forholder seg til det som opprinnelig var avtalt.
+
+Tillit og kommunikasjon blir derfor sentrale rammer. Erling må skape tydelige forventninger til roller og ansvar, samtidig som prosjektmedlemmene får mulighet til å bruke sin faglige kompetanse. Det bør også etableres mekanismer for å håndtere uenighet og prioriteringskonflikter. På denne måten kan relasjonelle kontrakter bidra til å skape et stabilt og fleksibelt samarbeid som støtter prosjektets mål om økt innbyggerengasjement og transparens.
+
+## Proaktive mekanismer for konflikthåndtering
 Erlings prosjektgruppe består av medlemmer fra fire ulike bransjer/miljøer - kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter, med ulike prioriteringer og lojaliteter. Kombinert med et relativt stramt tidsskjema på 15 måneder, budsjett på 8 millioner NOK og et klart mål om å øke innbyggerengasjementet med 20% det første året etter lansering. Det er ikke uvanlig at konflikter oppstår i slike prosjekter, men løsningen ligger i noe med at Erling etablerer proaktive rutiner allerede fra oppstarten slik at uenigheter fanges opp og løses tidlig i stedet for å eskalere under tidspresset som kommer til å prege prosjektet dersom det ikke er etablerte rutiner for å forebygge konflikter i prosjektarbeid. 
 
 For å kunne oppdage uenigheter tidlig bør Erling ikke anta at stillhet betyr enighet, allerede i det første møtet, burde han bruke tiden godt til å etablere en felles forståelse av mål og ansvar i prosjektet, som gir Erling ett referansepunkt for å kunne legge merke til deviasjoner (avvik). I tillegg bør han følge opp undergruppene noe tettere enn i plenum, siden enkelte stemmer - særlig brukerrepresentantene kan lett bli mindre hørt i et stort sammensatt team. 
@@ -34,11 +45,11 @@ For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, tren
 
 - **Identifiser**: Faste, korte statusrunder på møtene og samtlige retrospektiver. 
 
-- Drøfte: Et fast agendapunkt for konfliktsaker på hvert møte, med avklaringsmøter mellom de fagmiljøene en konkret sak gjelder. 
+- **Drøfte**: Et fast agendapunkt for konfliktsaker på hvert møte, med avklaringsmøter mellom de fagmiljøene en konkret sak gjelder. 
 
-- Avgjøre: En eskaleringstrapp – saken løses først i undergruppen, deretter av Erling, og først ved prinsipielle eller budsjettmessige spørsmål løftes den til bystyret, på samme måte som budsjettoverskridelser allerede håndteres. 
+- **Avgjøre**: En eskaleringstrapp – saken løses først i undergruppen, deretter av Erling, og først ved prinsipielle eller budsjettmessige spørsmål løftes den til bystyret, på samme måte som budsjettoverskridelser allerede håndteres. 
 
-Når denne handlingsplanen blir implementert av Erling vil det bli lettere å følge en plan istedet for å improvisere hvert konfliktmøte, samtidig som at han gjør rede for  g
+Når denne handlingsplanen blir implementert av Erling vil det bli lettere å følge en plan istedet for å improvisere hvert konfliktmøte, så det blir en enklere arbeidsflyt for gruppen til Erling.
 
 
 
@@ -52,12 +63,8 @@ Erling kan sørge for at alle blir hørt, ved å aktivt legge til rette for inkl
 
 
 # Gruppekontrakt
-Her skal vi evaluere vår egen innsats på det 
-<<<<<<< HEAD
+Her skal vi evaluere vår egen innsats på gruppearbeidet vårt og gruppekontrakten.
 ## Egenevaluering av gruppekontrakt/samarbeid
-=======
-### Egenevaluering av gruppekontrakt/samarbeid
->>>>>>> 4017d26a45f5f6bdc6e0fb8d708147a0302bdb7d
 
 Vi fulgte gruppekontrakten i stor grad gjennom prosjektet. Arbeidslederen passet på å holde kommunikasjonen oppe mellom gruppemedlemmene, og vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte. Dette gjorde det enklere å holde kontakten og samarbeide selv om vi ikke alltid var på samme sted. Vi kunne også bruke disse kanalene til å gi beskjed om oppgaver, møter og ting som måtte gjøres.
 
