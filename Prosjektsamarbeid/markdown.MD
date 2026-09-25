@@ -27,7 +27,7 @@ På det første møte bør Erling fokusere på pseudo for å bygge bedre relasjo
 
 En enkel agenda for det første møte kan derfor være at Erling først ønsker alle velkommen og presenterer prosjektet og målene. Deretter kan alle presentere seg selv og fortelle litt om sin rolle og erfaring. Etter dette kan teamet gå gjennom arbeidsfordelingen og diskutere hvordan dem skal samarbeide. Til slutt kan dem ha en sosial aktivitet eller felles lunsj for å bli bedre kjent. Dette kan gjøre at teamet får en god start og lettere kan samarbeide videre i prosjektet.
 
-## Rammer for Relasjonelle kontrakter
+## **Rammer for Relasjonelle kontrakter**
 I Erling sitt prosjekt vil relasjonelle kontrakter være sentrale fordi prosjektet er komplekst, tverrfaglig og preget av usikkerhet. En relasjonell kontrakt innebærer at samarbeidet ikke bare reguleres gjennom formelle avtaler, men også gjennom gjensidige forventninger, tillit, lojalitet, samarbeid og fleksibilitet.
 
 Prosjektgruppen består av aktører med ulik kompetanse og ulike interesser. IT-avdelingen kan eksempelvis være opptatt av tekniske løsninger og sikkerhet, mens innbyggerrepresentantene først og fremst kan være opptatt av brukervennlighet og relevans. Den politiske rådgiveren skal samtidig ivareta kontakten med bystyret. For at prosjektet skal lykkes, må Erling etablere en samarbeidskultur der aktørene deler informasjon, lytter til hverandre og arbeider mot prosjektets felles mål.
@@ -36,24 +36,24 @@ Fleksibilitet er også viktig. Selv om prosjektet har en tidsramme på 15 måned
 
 Tillit og kommunikasjon blir derfor sentrale rammer. Erling må skape tydelige forventninger til roller og ansvar, samtidig som prosjektmedlemmene får mulighet til å bruke sin faglige kompetanse. Det bør også etableres mekanismer for å håndtere uenighet og prioriteringskonflikter. På denne måten kan relasjonelle kontrakter bidra til å skape et stabilt og fleksibelt samarbeid som støtter prosjektets mål om økt innbyggerengasjement og transparens.
 
-## Proaktive mekanismer for konflikthåndtering
-Erlings prosjektgruppe består av medlemmer fra fire ulike bransjer/miljøer - kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter, med ulike prioriteringer og lojaliteter. Kombinert med et relativt stramt tidsskjema på 15 måneder, budsjett på 8 millioner NOK og et klart mål om å øke innbyggerengasjementet med 20% det første året etter lansering. Det er ikke uvanlig at konflikter oppstår i slike prosjekter, men løsningen ligger i noe med at Erling etablerer proaktive rutiner allerede fra oppstarten slik at uenigheter fanges opp og løses tidlig i stedet for å eskalere under tidspresset som kommer til å prege prosjektet dersom det ikke er etablerte rutiner for å forebygge konflikter i prosjektarbeid. 
+## **Proaktive mekanismer for konflikthåndtering**
+Erlings prosjektgruppe består av medlemmer fra fire ulike bransjer/miljøer - kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter, med ulike prioriteringer og lojaliteter. Kombinert med et relativt stramt tidsskjema på 15 måneder, budsjett på 8 millioner NOK og et klart mål om å øke innbyggerengasjementet med 20% det første året etter lansering. Det er ikke uvanlig at konflikter oppstår i slike prosjekter, men løsningen ligger i noe med at Erling etablerer proaktive rutiner allerede fra oppstarten slik at uenigheter fanges opp og løses tidlig i stedet for å eskalere under tidspresset som kommer til å prege prosjektet dersom det ikke er etablerte rutiner for å forebygge konflikter i prosjektarbeid.
 
-For å kunne oppdage uenigheter tidlig bør Erling ikke anta at stillhet betyr enighet, allerede i det første møtet, burde han bruke tiden godt til å etablere en felles forståelse av mål og ansvar i prosjektet, som gir Erling ett referansepunkt for å kunne legge merke til deviasjoner (avvik). I tillegg bør han følge opp undergruppene noe tettere enn i plenum, siden enkelte stemmer - særlig brukerrepresentantene kan lett bli mindre hørt i et stort sammensatt team. 
+For å kunne oppdage uenigheter tidlig bør Erling ikke anta at stillhet betyr enighet, allerede i det første møtet, burde han bruke tiden godt til å etablere en felles forståelse av mål og ansvar i prosjektet, som gir Erling ett referansepunkt for å kunne legge merke til deviasjoner (avvik). I tillegg bør han følge opp undergruppene noe tettere enn i plenum, siden enkelte stemmer - særlig brukerrepresentantene kan lett bli mindre hørt i et stort sammensatt team.
 
-For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, trenger prosjektet konkrete rutiner å falle tilbake på, altså i stedet for at konflikter blir improvisert fra sak til sak, anbefalingen vår er da en enkel tre stegstrinn modell, som du følger: 
+For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, trenger prosjektet konkrete rutiner å falle tilbake på, altså i stedet for at konflikter blir improvisert fra sak til sak, anbefalingen vår er da en enkel tre stegstrinn modell, som du følger:
 
-- **Identifiser**: Faste, korte statusrunder på møtene og samtlige retrospektiver. 
+- **Identifiser**: Faste, korte statusrunder på møtene og samtlige retrospektiver.
 
-- **Drøfte**: Et fast agendapunkt for konfliktsaker på hvert møte, med avklaringsmøter mellom de fagmiljøene en konkret sak gjelder. 
+- **Drøfte**: Et fast agendapunkt for konfliktsaker på hvert møte, med avklaringsmøter mellom de fagmiljøene en konkret sak gjelder.
 
-- **Avgjøre**: En eskaleringstrapp – saken løses først i undergruppen, deretter av Erling, og først ved prinsipielle eller budsjettmessige spørsmål løftes den til bystyret, på samme måte som budsjettoverskridelser allerede håndteres. 
+- **Avgjøre**: En eskaleringstrapp – saken løses først i undergruppen, deretter av Erling, og først ved prinsipielle eller budsjettmessige spørsmål løftes den til bystyret, på samme måte som budsjettoverskridelser allerede håndteres.
 
 Når denne handlingsplanen blir implementert av Erling vil det bli lettere å følge en plan istedet for å improvisere hvert konfliktmøte, så det blir en enklere arbeidsflyt for gruppen til Erling.
 
 
 
-## Sikring av god kommunikasjon
+## **Sikring av god kommunikasjon**
 
 God kommunikasjon er spesielt viktig i Erlings prosjekt, ettersom teamet består av personer med ulik faglig bakgrunn, ulike interesser og ulik grad av innflytelse. Kommunalt ansatte kan ha fokus på praktisk gjennomføring og regelverk, den politiske rådgiveren kan være opptatt av demokratisk legitimitet og bystyrets forventninger, mens UX/UI-designeren, sikkerhetseksperten og representantene for innbyggerne bidrar med fagspesifikke og brukerorienterte perspektiver. Disse forskjellene er verdifulle, men kan også føre til misforståelser dersom deltakerne bruker ulik terminologi eller antar at andre sitter på den samme informasjonen. Siden prosjektet har en begrenset tidsramme på 15 måneder og et fastsatt budsjett, kan misforståelser eller forsinkede beslutninger raskt føre til ineffektivitet, konflikter eller kostbart omarbeid. Kommunikasjon handler derfor om mer enn bare å dele oppdateringer; det er avgjørende for å skape en felles forståelse av prosjektets mål, prioriteringer, ansvarsområder og rammebetingelser. Tydelig og åpen kommunikasjon kan også styrke tilliten i prosjektets tidlige fase, noe som gjør det enklere for medlemmene å ta opp bekymringer før de utvikler seg til større problemer.
 
@@ -61,10 +61,22 @@ Teamet bør etablere en enkel og forutsigbar kommunikasjonsstruktur helt fra sta
 
 Erling kan sørge for at alle blir hørt, ved å aktivt legge til rette for inkluderende møter i stedet for å la de mest selvsikre eller høytstående deltakerne dominere diskusjonen. Han bør invitere til innspill fra hver faggruppe og spesifikt spørre representantene for innbyggerne om hvordan foreslåtte løsninger kan påvirke brukerne. Det er spesielt viktig å bruke et enkelt og forståelig språk, ettersom teknisk, politisk og administrativ sjargong kan ekskludere personer som ikke har den samme fagkompetansen. Erling kan kontrollere at alle har samme forståelse, ved å oppsummere hovedpunkter, be deltakerne avklare eventuell usikkerhet og bekrefte beslutninger før man går videre. Muligheter for anonym tilbakemelding eller korte, individuelle avstemminger kan også hjelpe deltakerne med å ta opp forhold de ikke føler seg komfortable med å dele i et stort møte. Til slutt er åpen dokumentasjon avgjørende: beslutninger, begrunnelser for disse og endringer i planer bør være tilgjengelige for hele gruppen. Dette gir alle medlemmer lik tilgang til informasjon og gjør det enklere for teamet å samarbeide på en ansvarlig måte gjennom hele prosjektet.
 
+## **Motvirke handlingspresset i tidlig fase** 
 
-# Gruppekontrakt
+Når Erling skal håndtere "Handlingspresset" i tidlig etappe må det til en rekke tiltak som må utføres, slik at man skaper balanse mellom en klar plan og fleksibilitet. Det første steget er at man skaper en oversikt over hva som må gjøres før man starter med et prosjekt, slik at man er forberedt, har en konkret plan for hva som skal utføres og ikke minst har en grunnleggende balanse. Handlingspresset er et begrep som brukes for å definere presset til å starte på et prosjekt uten forkunnskap eller uten å være forberedt, som for eksempel man starter på et prosjekt uten en konkret plan, mål eller hensikt. For å unngå handlingspresset i tidlig fase må man sørge for at man forstår oppgaven eller problemet som skal løses, utfører et fullstendig forarbeid og tenker kritisk gjennom prosjektet slik at man ser ting fra et annet perspektiv, slik at man unngår å bli for optimist og tenker på hva som kan gå galt, sånn at man blir mest mulig forberedt.  
+
+
+## **Planleggingsfellen / Fleksibilitet**
+
+For å balansere behovet for en klar plan med fleksibilitet må man unngå å havne i en “Planleggingsfelle”. En “Planleggingsfelle” er at man undervurderer hvor mye arbeid som egentlig skal utføres, hvor god tid man har eller ressurser som er tilgjengelig for å utføre prosjektet.  Planleggingsfellen er noe man kan oppleve i hverdagen også, som for eksempel når man planlegger hvor lang tid det tar å gå til butikken fra huset sitt, men ikke planlegger hvor lang tid man bruker på å finne de ulike produktene man skal ha, og akkurat kan dette føre til ubalanse for eksempel under prosjektarbeid. Så kort sagt er planleggingsfellen relevant i hverdagen også.  Ofte når man havner i "Planleggingsfellen" er det slik at man ikke tenker på det som er krevende eller som er problematisk, men heller danner optimistiske tanker knyttet til prosjektet eller problemet som skal løses. Det er akkurat det som kan danne "Planleggingsfellen", og kan skade balansen under prosjektet.   
+
+
+ 
+For å Oppsummere kan vi understreke at Erling bør ha en konkret og tydelig plan, slik at balanse blir etablert i tidlig fase sånn at vi unngår planleggingsfellen, har en konkret plan på hva som skal utføres og øker fleksibiliteten i prosjektsamerbeidet.
+
+# **Gruppekontrakt**
 Her skal vi evaluere vår egen innsats på gruppearbeidet vårt og gruppekontrakten.
-## Egenevaluering av gruppekontrakt/samarbeid
+## **Egenevaluering av gruppekontrakt/samarbeid**
 
 Vi fulgte gruppekontrakten i stor grad gjennom prosjektet. Arbeidslederen passet på å holde kommunikasjonen oppe mellom gruppemedlemmene, og vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte. Dette gjorde det enklere å holde kontakten og samarbeide selv om vi ikke alltid var på samme sted. Vi kunne også bruke disse kanalene til å gi beskjed om oppgaver, møter og ting som måtte gjøres.
 
