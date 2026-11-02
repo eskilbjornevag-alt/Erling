@@ -83,7 +83,7 @@ Et konkret eksempel på at vi fulgte gruppekontrakten, var at vi alltid ga beskj
 
 En utfordring som vi møtte på var håndtering av tid. Vi undervurderte ofte hvor mye tid oppgavene ville ta, og dette førte noen ganger til at vi jobbet nærme deadline. I gruppekontrakten hadde vi ikke skrevet så mye om hvordan vi skulle planlegge tiden eller hva vi skulle gjøre hvis vi lå bak planen. Dette gjorde at vi noen ganger måtte jobbe mer på kort tid enn det som egentlig var nødvendig. Vi kunne også vært flinkere til å sette egne frister før den faktiske innleveringsfristen.
 
-Basert på vår erfaring mener vi at vi må fokusere mer på struktur og respektere tiden enda mer i fremtidige prosjekter. Vi bør lage tydeligere frister underveis, slik at vi ligger mer frampå med oppgavene og ikke gjør mesteparten rett før innleveringen. Vi bør også ha klare regler for sykdom og fravær, og hva vi gjør hvis noen ikke rekker en avtalt frist. Dette kan gjøre gruppekontrakten mer nyttig og gjøre samarbeidet bedre i fremtidige prosjekter.
+Basert på vår erfaring mener vi at vi må fokusere mer på struktur og respektere tiden enda mer i fremtidige prosjekter. Vi bør lage tydeligere frister underveis, slik at vi ligger mer frampå med oppgavene og ikke gjør mesteparten rett før innleveringen. Vi bør også ha klare regler for sykdom og fravær, og hva vi gjør hvis noen ikke rekker en avtalt frist. Dette kan gjøre gruppekontrakten mer nyttig og gjøre samarbeidet bedre i fremtidige prosjekter
 
 ## Referanseliste
 1. Jacobsen, D. I. (2016). Engangsorganisasjonen: organisering og ledelse av prosjekter. Fagbokforlaget.
