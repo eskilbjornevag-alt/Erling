@@ -38,6 +38,9 @@ Tillit og kommunikasjon blir derfor sentrale rammer. Erling må skape tydelige f
 ## **Proaktive mekanismer for konflikthåndtering**
 Erlings prosjektgruppe består av medlemmer fra fire ulike bransjer/miljøer - kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter, med ulike prioriteringer og lojaliteter. Kombinert med et relativt stramt tidsskjema på 15 måneder, budsjett på 8 millioner NOK og et klart mål om å øke innbyggerengasjementet med 20% det første året etter lansering. Det er ikke uvanlig at konflikter oppstår i slike prosjekter, men løsningen ligger i noe med at Erling etablerer proaktive rutiner allerede fra oppstarten slik at uenigheter fanges opp og løses tidlig i stedet for å eskalere under tidspresset som kommer til å prege prosjektet dersom det ikke er etablerte rutiner for å forebygge konflikter i prosjektarbeid.
 
+Erlings prosjektgruppe består av medlemmer fra fire ulike bransjer/miljøer - kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter, med ulike prioriteringer og lojaliteter. Kombinert med et relativt stramt tidsskjema på 15 måneder, budsjett på 8 millioner NOK og et klart mål om å øke innbyggerengasjementet med 20% det første året etter lansering. 
+Det er ikke uvanlig at konflikter oppstår i slike prosjekter, men løsningen ligger i noe med at Erling etablerer proaktive rutiner allerede fra oppstarten slik at uenigheter fanges opp og løses tidlig i stedet for å eskalere under tidspresset som kommer til å prege prosjektet dersom det ikke er etablerte rutiner for å forebygge konflikter i prosjektarbeid. Ett viktig huskepunkt er så lenge det er mulig, bør man forsøke å skille personkonflikt fra sakskonflikt, de følelsesmessige elementene i en personkonflikt vil i mange tilfeller gjøre det vanskelig å foreta en objektiv analyse av problemet som foreligger, og dermed også av mulige løsninger. (Jacobsen, s. 66)
+
 For å kunne oppdage uenigheter tidlig bør Erling ikke anta at stillhet betyr enighet, allerede i det første møtet, burde han bruke tiden godt til å etablere en felles forståelse av mål og ansvar i prosjektet, som gir Erling ett referansepunkt for å kunne legge merke til deviasjoner (avvik). I tillegg bør han følge opp undergruppene noe tettere enn i plenum, siden enkelte stemmer - særlig brukerrepresentantene kan lett bli mindre hørt i et stort sammensatt team.
 
 For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, trenger prosjektet konkrete rutiner å falle tilbake på, altså i stedet for at konflikter blir improvisert fra sak til sak, anbefalingen vår er da en enkel tre stegstrinn modell, som du følger:
@@ -76,6 +79,7 @@ For å Oppsummere kan vi understreke at Erling bør ha en konkret og tydelig pla
 # **Gruppekontrakt**
 Her skal vi evaluere vår egen innsats på gruppearbeidet vårt og gruppekontrakten.
 ## **Egenevaluering av gruppekontrakt/samarbeid**
+
 
 Vi fulgte gruppekontrakten i stor grad gjennom prosjektet. Arbeidslederen passet på å holde kommunikasjonen oppe mellom gruppemedlemmene, og vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte. Dette gjorde det enklere å holde kontakten og samarbeide selv om vi ikke alltid var på samme sted. Vi kunne også bruke disse kanalene til å gi beskjed om oppgaver, møter og ting som måtte gjøres.
 
