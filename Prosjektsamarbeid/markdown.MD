@@ -37,20 +37,19 @@ Fleksibilitet er også viktig. Selv om prosjektet har en tidsramme på 15 måned
 Tillit og kommunikasjon blir derfor sentrale rammer. Erling må skape tydelige forventninger til roller og ansvar, samtidig som prosjektmedlemmene får mulighet til å bruke sin faglige kompetanse. Det bør også etableres mekanismer for å håndtere uenighet og prioriteringskonflikter. På denne måten kan relasjonelle kontrakter bidra til å skape et stabilt og fleksibelt samarbeid som støtter prosjektets mål om økt innbyggerengasjement og transparens.
 
 ## Proaktive mekanismer for konflikthåndtering
-Erlings prosjektgruppe består av medlemmer fra fire ulike bransjer/miljøer - kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter, med ulike prioriteringer og lojaliteter. Kombinert med et relativt stramt tidsskjema på 15 måneder, budsjett på 8 millioner NOK og et klart mål om å øke innbyggerengasjementet med 20% det første året etter lansering. Det er ikke uvanlig at konflikter oppstår i slike prosjekter, men løsningen ligger i noe med at Erling etablerer proaktive rutiner allerede fra oppstarten slik at uenigheter fanges opp og løses tidlig i stedet for å eskalere under tidspresset som kommer til å prege prosjektet dersom det ikke er etablerte rutiner for å forebygge konflikter i prosjektarbeid. 
+Erlings prosjektgruppe består av medlemmer fra fire ulike bransjer/miljøer - kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter, med ulike prioriteringer og lojaliteter. Kombinert med et relativt stramt tidsskjema på 15 måneder, budsjett på 8 millioner NOK og et klart mål om å øke innbyggerengasjementet med 20% det første året etter lansering. Det er ikke uvanlig at konflikter oppstår i slike prosjekter, men løsningen ligger i noe med at Erling etablerer proaktive rutiner allerede fra oppstarten slik at uenigheter fanges opp og løses tidlig i stedet for å eskalere under tidspresset som kommer til å prege prosjektet dersom det ikke er etablerte rutiner for å forebygge konflikter i prosjektarbeid.
 
-For å kunne oppdage uenigheter tidlig bør Erling ikke anta at stillhet betyr enighet, allerede i det første møtet, burde han bruke tiden godt til å etablere en felles forståelse av mål og ansvar i prosjektet, som gir Erling ett referansepunkt for å kunne legge merke til deviasjoner (avvik). I tillegg bør han følge opp undergruppene noe tettere enn i plenum, siden enkelte stemmer - særlig brukerrepresentantene kan lett bli mindre hørt i et stort sammensatt team. 
+For å kunne oppdage uenigheter tidlig bør Erling ikke anta at stillhet betyr enighet, allerede i det første møtet, burde han bruke tiden godt til å etablere en felles forståelse av mål og ansvar i prosjektet, som gir Erling ett referansepunkt for å kunne legge merke til deviasjoner (avvik). I tillegg bør han følge opp undergruppene noe tettere enn i plenum, siden enkelte stemmer - særlig brukerrepresentantene kan lett bli mindre hørt i et stort sammensatt team.
 
-For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, trenger prosjektet konkrete rutiner å falle tilbake på, altså i stedet for at konflikter blir improvisert fra sak til sak, anbefalingen vår er da en enkel tre stegstrinn modell, som du følger: 
+For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, trenger prosjektet konkrete rutiner å falle tilbake på, altså i stedet for at konflikter blir improvisert fra sak til sak, anbefalingen vår er da en enkel tre stegstrinn modell, som du følger:
 
-- **Identifiser**: Faste, korte statusrunder på møtene og samtlige retrospektiver. 
+- **Identifiser**: Faste, korte statusrunder på møtene og samtlige retrospektiver.
 
-- **Drøfte**: Et fast agendapunkt for konfliktsaker på hvert møte, med avklaringsmøter mellom de fagmiljøene en konkret sak gjelder. 
+- **Drøfte**: Et fast agendapunkt for konfliktsaker på hvert møte, med avklaringsmøter mellom de fagmiljøene en konkret sak gjelder.
 
-- **Avgjøre**: En eskaleringstrapp – saken løses først i undergruppen, deretter av Erling, og først ved prinsipielle eller budsjettmessige spørsmål løftes den til bystyret, på samme måte som budsjettoverskridelser allerede håndteres. 
+- **Avgjøre**: En eskaleringstrapp – saken løses først i undergruppen, deretter av Erling, og først ved prinsipielle eller budsjettmessige spørsmål løftes den til bystyret, på samme måte som budsjettoverskridelser allerede håndteres.
 
 Når denne handlingsplanen blir implementert av Erling vil det bli lettere å følge en plan istedet for å improvisere hvert konfliktmøte, så det blir en enklere arbeidsflyt for gruppen til Erling.
-
 
 
 ## Sikring av god kommunikasjon
@@ -73,3 +72,6 @@ Et konkret eksempel på at vi fulgte gruppekontrakten, var at vi alltid ga beskj
 En utfordring som vi møtte på var håndtering av tid. Vi undervurderte ofte hvor mye tid oppgavene ville ta, og dette førte noen ganger til at vi jobbet nærme deadline. I gruppekontrakten hadde vi ikke skrevet så mye om hvordan vi skulle planlegge tiden eller hva vi skulle gjøre hvis vi lå bak planen. Dette gjorde at vi noen ganger måtte jobbe mer på kort tid enn det som egentlig var nødvendig. Vi kunne også vært flinkere til å sette egne frister før den faktiske innleveringsfristen.
 
 Basert på vår erfaring mener vi at vi må fokusere mer på struktur og respektere tiden enda mer i fremtidige prosjekter. Vi bør lage tydeligere frister underveis, slik at vi ligger mer frampå med oppgavene og ikke gjør mesteparten rett før innleveringen. Vi bør også ha klare regler for sykdom og fravær, og hva vi gjør hvis noen ikke rekker en avtalt frist. Dette kan gjøre gruppekontrakten mer nyttig og gjøre samarbeidet bedre i fremtidige prosjekter.
+
+## Referanseliste
+1. Jacobsen, D. I. (2016). Engangsorganisasjonen: organisering og ledelse av prosjekter. Fagbokforlaget.
