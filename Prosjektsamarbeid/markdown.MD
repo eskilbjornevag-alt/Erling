@@ -66,15 +66,13 @@ For å balansere behovet for en klar plan med fleksibilitet må man unngå å ha
  
 For å oppsummere kan vi understreke at Erling bør ha en konkret og tydelig plan, slik at balanse blir etablert i tidlig fase sånn at vi unngår planleggingsfellen, har en konkret plan på hva som skal utføres og øker fleksibiliteten i prosjektsamerbeidet. 
 
-
-
-
 ## **Sikring av god kommunikasjon**
 I Erlings prosjekt har deltakerne ulik faglig bakgrunn og ulike perspektiver. For at gruppen skal kunne samarbeide godt, bør alle relevante parter få mulighet til å dele synspunktene sine. Jacobsen beskriver inkludering som en forutsetning for åpen kommunikasjon: Prosjektet må legge til rette for at deltakerne kan møtes og utveksle meninger. Han trekker også fram empati, åpenhet og at ingen skal frykte negative reaksjoner når de fremmer synspunktene sine (Jacobsen, 2016, s. 82). Erling bør derfor invitere innspill fra alle faggruppene, også innbyggerrepresentantene, og sørge for at diskusjonene ikke domineres av de mest taleføre eller innflytelsesrike deltakerne.
 
 Jacobsen knytter tett og åpen kommunikasjon til raskere kunnskapsdeling, gjensidig tillit, sosial støtte og en sterkere felles forståelse i gruppen (Jacobsen, 2016, s. 82). I praksis kan Erling støtte dette ved å oppsummere viktige diskusjoner, invitere deltakerne til å stille spørsmål og kontrollere at gruppen har forstått beslutninger på samme måte. Et forståelig språk kan også gjøre det lettere for deltakere med ulik fagkompetanse å bidra.
 
 Som et praktisk tiltak kan teamet ha korte, regelmessige møter og føre en felles oversikt over beslutninger, ansvar og frister. Dette er forslag til hvordan Erling kan bruke prinsippene om hyppig kontakt og åpen informasjonsdeling i prosjektet. Jacobsen framhever også prosjektledelsens sentrale rolle i hvordan kommunikasjonen fungerer, og at støtte fra prosjektledelse og prosjekteier kan bidra til medlemmenes opplevelse av støtte og engasjement (Jacobsen, 2016, s. 83–84). Erling bør derfor holde prosjekteier orientert og gjøre relevant prosjektinformasjon tilgjengelig for hele teamet.
+
 
 ## **Motvirke handlingspresset i tidlig fase** 
 
