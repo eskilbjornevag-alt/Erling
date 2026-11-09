@@ -38,6 +38,7 @@ Tillit og kommunikasjon blir derfor sentrale rammer. Erling må skape tydelige f
 ## **Proaktive mekanismer for konflikthåndtering**
 
 Erlings prosjektgruppe består av medlemmer fra fire ulike bransjer/miljøer - kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter, med ulike prioriteringer og lojaliteter. Kombinert med et relativt stramt tidsskjema på 15 måneder, budsjett på 8 millioner NOK og et klart mål om å øke innbyggerengasjementet med 20% det første året etter lansering. 
+
 Det er ikke uvanlig at konflikter oppstår i slike prosjekter, men løsningen ligger i noe med at Erling etablerer proaktive rutiner allerede fra oppstarten slik at uenigheter fanges opp og løses tidlig i stedet for å eskalere under tidspresset som kommer til å prege prosjektet dersom det ikke er etablerte rutiner for å forebygge konflikter i prosjektarbeid. Ett viktig huskepunkt er så lenge det er mulig, bør man forsøke å skille personkonflikt fra sakskonflikt, de følelsesmessige elementene i en personkonflikt vil i mange tilfeller gjøre det vanskelig å foreta en objektiv analyse av problemet som foreligger, og dermed også av mulige løsninger. (Jacobsen, s. 66)
 
 For å kunne oppdage uenigheter tidlig bør Erling ikke anta at stillhet betyr enighet, allerede i det første møtet, burde han bruke tiden godt til å etablere en felles forståelse av mål og ansvar i prosjektet, som gir Erling ett referansepunkt for å kunne legge merke til deviasjoner (avvik). I tillegg bør han følge opp undergruppene noe tettere enn i plenum, siden enkelte stemmer - særlig brukerrepresentantene kan lett bli mindre hørt i et stort sammensatt team.
@@ -89,4 +90,4 @@ En utfordring som vi møtte på var håndtering av tid. Vi undervurderte ofte hv
 Basert på vår erfaring mener vi at vi må fokusere mer på struktur og respektere tiden enda mer i fremtidige prosjekter. Vi bør lage tydeligere frister underveis, slik at vi ligger mer frampå med oppgavene og ikke gjør mesteparten rett før innleveringen. Vi bør også ha klare regler for sykdom og fravær, og hva vi gjør hvis noen ikke rekker en avtalt frist. Dette kan gjøre gruppekontrakten mer nyttig og gjøre samarbeidet bedre i fremtidige prosjekter.
 
 ## Referanseliste
-Jacobsen, D. I. (2016). Engangsorganisasjonen: organisering og ledelse av prosjekter. Fagbokforlaget.
+Jacobsen, D. I. (2016). Engangsorganisasjonen: organisering og ledelse av prosjekter. Fagbokforlaget..
