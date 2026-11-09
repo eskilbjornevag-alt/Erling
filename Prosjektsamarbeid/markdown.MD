@@ -38,6 +38,9 @@ Tillit og kommunikasjon blir derfor sentrale rammer. Erling må skape tydelige f
 ## **Proaktive mekanismer for konflikthåndtering**
 Erlings prosjektgruppe består av medlemmer fra fire ulike bransjer/miljøer - kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter, med ulike prioriteringer og lojaliteter. Kombinert med et relativt stramt tidsskjema på 15 måneder, budsjett på 8 millioner NOK og et klart mål om å øke innbyggerengasjementet med 20% det første året etter lansering. Det er ikke uvanlig at konflikter oppstår i slike prosjekter, men løsningen ligger i noe med at Erling etablerer proaktive rutiner allerede fra oppstarten slik at uenigheter fanges opp og løses tidlig i stedet for å eskalere under tidspresset som kommer til å prege prosjektet dersom det ikke er etablerte rutiner for å forebygge konflikter i prosjektarbeid.
 
+Erlings prosjektgruppe består av medlemmer fra fire ulike bransjer/miljøer - kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter, med ulike prioriteringer og lojaliteter. Kombinert med et relativt stramt tidsskjema på 15 måneder, budsjett på 8 millioner NOK og et klart mål om å øke innbyggerengasjementet med 20% det første året etter lansering. 
+Det er ikke uvanlig at konflikter oppstår i slike prosjekter, men løsningen ligger i noe med at Erling etablerer proaktive rutiner allerede fra oppstarten slik at uenigheter fanges opp og løses tidlig i stedet for å eskalere under tidspresset som kommer til å prege prosjektet dersom det ikke er etablerte rutiner for å forebygge konflikter i prosjektarbeid. Ett viktig huskepunkt er så lenge det er mulig, bør man forsøke å skille personkonflikt fra sakskonflikt, de følelsesmessige elementene i en personkonflikt vil i mange tilfeller gjøre det vanskelig å foreta en objektiv analyse av problemet som foreligger, og dermed også av mulige løsninger. (Jacobsen, s. 66)
+
 For å kunne oppdage uenigheter tidlig bør Erling ikke anta at stillhet betyr enighet, allerede i det første møtet, burde han bruke tiden godt til å etablere en felles forståelse av mål og ansvar i prosjektet, som gir Erling ett referansepunkt for å kunne legge merke til deviasjoner (avvik). I tillegg bør han følge opp undergruppene noe tettere enn i plenum, siden enkelte stemmer - særlig brukerrepresentantene kan lett bli mindre hørt i et stort sammensatt team.
 
 For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, trenger prosjektet konkrete rutiner å falle tilbake på, altså i stedet for at konflikter blir improvisert fra sak til sak, anbefalingen vår er da en enkel tre stegstrinn modell, som du følger:
@@ -49,6 +52,21 @@ For å sikre at uenigheter kan løses kjapt og effektivt før de eskalerer, tren
 - **Avgjøre**: En eskaleringstrapp – saken løses først i undergruppen, deretter av Erling, og først ved prinsipielle eller budsjettmessige spørsmål løftes den til bystyret, på samme måte som budsjettoverskridelser allerede håndteres.
 
 Når denne handlingsplanen blir implementert av Erling vil det bli lettere å følge en plan istedet for å improvisere hvert konfliktmøte, så det blir en enklere arbeidsflyt for gruppen til Erling.
+
+
+## Håndtering av tidspress og "planleggingsfellen" 
+
+Når Erling skal håndtere "Handlingspresset" i tidlig etappe må det til en rekke tiltak som må utføres, slik at man skaper balanse mellom en klar plan og fleksibilitet(Jcobsen, 2016, s. 49). Det første steget er at man skaper en oversikt over hva som må gjøres før man starter med et prosjekt, slik at man er forberedt, har en konkret plan for hva som skal utføres og ikke minst har en grunnleggende balanse. Handlingspresset er et begrep som brukes for å definere presset til å starte på et prosjekt uten forkunnskap eller uten å være forberedt, som for eksempel man starter på et prosjekt uten en konkret plan, mål eller hensikt(Jcobsen, 2016, s. 47). For å unngå handlingspresset i tidlig fase må man sørge for at man forstår oppgaven eller problemet som skal løses, utfører et fullstendig forarbeid og tenker kritisk gjennom prosjektet slik at man ser ting fra et annet perspektiv, slik at man unngår å bli for optimistisk og tenker på hva som kan gå galt, sånn at man blir mest mulig forberedt.  
+
+
+
+For å balansere behovet for en klar plan med fleksibilitet må man unngå å havne i en “Planleggingsfelle”(Jcobsen, 2016, s. 49). En “Planleggingsfelle” er at man undervurderer hvor mye arbeid som egentlig skal utføres, hvor god tid man har eller ressurser som er tilgjengelige for å utføre prosjektet(Jcobsen, 2016, s. 48). Planleggingsfellen er noe man kan oppleve i hverdagen også, som for eksempel når man planlegger hvor lang tid det tar å gå til butikken fra huset sitt, men ikke planlegger hvor lang tid man bruker på å finne de ulike produktene man skal ha, og akkurat dette kan føre til ubalanse for eksempel under prosjektarbeid. Så kort sagt er planleggingsfellen relevant i hverdagen også. Ofte når man havner i "Planleggingsfellen" er det slik at man ikke tenker på det som er krevende eller som er problematisk, men heller danner optimistiske tanker knyttet til prosjektet eller problemet som skal løses(Jcobsen, 2016, s. 49). Det er akkurat det som kan danne "Planleggingsfellen", og kan skade balansen under prosjektet.   
+
+
+ 
+For å oppsummere kan vi understreke at Erling bør ha en konkret og tydelig plan, slik at balanse blir etablert i tidlig fase sånn at vi unngår planleggingsfellen, har en konkret plan på hva som skal utføres og øker fleksibiliteten i prosjektsamerbeidet. 
+
+
 
 
 ## **Sikring av god kommunikasjon**
@@ -74,6 +92,7 @@ For å Oppsummere kan vi understreke at Erling bør ha en konkret og tydelig pla
 # **Gruppekontrakt**
 Her skal vi evaluere vår egen innsats på gruppearbeidet vårt og gruppekontrakten.
 ## **Egenevaluering av gruppekontrakt/samarbeid**
+
 
 Vi fulgte gruppekontrakten i stor grad gjennom prosjektet. Arbeidslederen passet på å holde kommunikasjonen oppe mellom gruppemedlemmene, og vi brukte Discord og Snapchat for å kunne kommunisere på en lett måte. Dette gjorde det enklere å holde kontakten og samarbeide selv om vi ikke alltid var på samme sted. Vi kunne også bruke disse kanalene til å gi beskjed om oppgaver, møter og ting som måtte gjøres.
 
